@@ -20,6 +20,14 @@ Smart, real‑time pool shot prediction with a clean side‑by‑side view: raw 
 
 ---
 
+### Output
+
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/0c850dec-0224-4866-8c93-79faab0f6703" />
+
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5835ccf7-5a35-441b-b748-874796cbdfa5" />
+
+---
+
 ### 🚀 Quickstart (Windows)
 
 1) Clone or open the project folder in your IDE.
