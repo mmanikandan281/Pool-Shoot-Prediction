@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# --- Allow important files ---
+!.gitignore
+!*.py
+!requirements.txt
+
+# --- Ignore junk & virtual env ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.log
+*.mp4
+.env/
+venv/
+Lib/
+Scripts/
+share/
