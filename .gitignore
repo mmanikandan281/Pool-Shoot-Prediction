@@ -1,23 +1,15 @@
-# Ignore everything by default
-*
-
-# --- Allow important files ---
-!.gitignore
-!*.py
-!requirements.txt
-!Lib/
-!Scripts/
-!share/
-
-# --- Ignore junk & cache ---
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.db
-*.sqlite3
-*.egg-info/
+
+# Virtualenv (but you said you want Lib/ and Scripts/, so we won't ignore them)
+# venv/
+# .env/
+
+# Logs
 *.log
-*.mp4
-.env/
-venv/
+
+# Egg info
+*.egg-info/
